@@ -1,0 +1,50 @@
+header{
+				background: url(img/about/bg_all.png);
+				height: 350px;
+				width: 100%;
+				margin: 0;
+				padding: 0;
+				text-align: center;			
+			}
+			header img{
+				position: relative;
+				top: 120px;
+			}
+			header p{
+				font-size: 35px;
+				
+				position: relative;
+				top: 110px;
+			}
+			.ques{
+				color: black;
+				font-weight: 700;
+				font-size: 20px;
+			}
+			.answ{
+				color: #445566;
+			}
+			.left{
+				float: left;
+				width: 500px;
+			}
+			.right{
+				float: right;
+				width: 400px;
+				padding: 20px;
+			}
+			section{
+				margin: 0 400px;
+			}
+			/*nav{
+				list-style: none;
+				padding: 0;
+	
+	position: absolute;
+	background: rgba(050, 050, 050, 0.7);
+	width: 100%;
+	height: 50px;
+	line-height: 0;
+	float: right;
+	bottom: 0;
+			}*/
